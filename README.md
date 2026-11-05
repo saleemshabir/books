@@ -247,5 +247,5 @@ Contributions, suggestions, and bug reports are welcome.
 Add a `LICENSE` file to the repository before specifying a project license. BookHub's license does not automatically grant redistribution rights to the books it references or includes.
 
 ---
-
+also added some new books to it check them out
 **If you find BookHub useful, consider giving the repository a star!** ⭐
